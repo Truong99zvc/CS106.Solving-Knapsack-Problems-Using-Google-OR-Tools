@@ -1,0 +1,35 @@
+Path: ./Testcases/05SubsetSum/n00050.kp
+Size: 50 items, Time taken: 0.002017498016357422s
+Total value = 135607
+Total weight: 135607
+Optimal: True
+
+
+Path: ./Testcases/05SubsetSum/n00100.kp
+Size: 100 items, Time taken: 0.0010082721710205078s
+Total value = 25372
+Total weight: 25372
+Optimal: True
+
+
+Path: ./Testcases/05SubsetSum/n00200.kp
+Size: 200 items, Time taken: 0.002304553985595703s
+Total value = 462929
+Total weight: 462929
+Optimal: True
+
+
+Path: ./Testcases/05SubsetSum/n00500.kp
+Size: 500 items, Time taken: 0.0s
+Total value = 128354
+Total weight: 128354
+Optimal: True
+
+
+Path: ./Testcases/05SubsetSum/n10000.kp
+Size: 10000 items, Time taken: 0.16554999351501465s
+Total value = 24669889
+Total weight: 24669889
+Optimal: True
+
+

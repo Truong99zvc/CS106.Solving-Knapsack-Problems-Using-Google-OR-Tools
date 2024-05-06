@@ -1,0 +1,35 @@
+Path: ./Testcases/11ProfitCeiling/n00050.kp
+Size: 50 items, Time taken: 14.214800119400024s
+Total value = 11157
+Total weight: 11167
+Optimal: True
+
+
+Path: ./Testcases/11ProfitCeiling/n00100.kp
+Size: 100 items, Time taken: 0.0005993843078613281s
+Total value = 225780
+Total weight: 225782
+Optimal: True
+
+
+Path: ./Testcases/11ProfitCeiling/n00200.kp
+Size: 200 items, Time taken: 150.10080814361572s (time limit exceeded)
+Total value = 530589
+Total weight: 530611
+Optimal: False
+
+
+Path: ./Testcases/11ProfitCeiling/n00500.kp
+Size: 500 items, Time taken: 219.94919085502625s (time limit exceeded)
+Total value = 1205667
+Total weight: 1205713
+Optimal: False
+
+
+Path: ./Testcases/11ProfitCeiling/n01000.kp
+Size: 1000 items, Time taken: 189.5653190612793s (time limit exceeded)
+Total value = 2385015
+Total weight: 2385090
+Optimal: False
+
+

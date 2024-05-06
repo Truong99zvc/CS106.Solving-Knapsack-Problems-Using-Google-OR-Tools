@@ -1,0 +1,35 @@
+Path: ./Testcases/12Circle/n00050.kp
+Size: 50 items, Time taken: 28.553935766220093s
+Total value = 7215633
+Total weight: 108240
+Optimal: True
+
+
+Path: ./Testcases/12Circle/n00100.kp
+Size: 100 items, Time taken: 150.0959975719452s (time limit exceeded)
+Total value = 15188894
+Total weight: 227845
+Optimal: False
+
+
+Path: ./Testcases/12Circle/n00200.kp
+Size: 200 items, Time taken: 226.27713346481323s (time limit exceeded)
+Total value = 33988279
+Total weight: 509850
+Optimal: False
+
+
+Path: ./Testcases/12Circle/n00500.kp
+Size: 500 items, Time taken: 214.732248544693s (time limit exceeded)
+Total value = 83197460
+Total weight: 1248025
+Optimal: False
+
+
+Path: ./Testcases/12Circle/n02000.kp
+Size: 2000 items, Time taken: 201.28423285484314s (time limit exceeded)
+Total value = 330912654
+Total weight: 4963941
+Optimal: False
+
+

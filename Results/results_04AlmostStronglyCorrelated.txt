@@ -1,0 +1,35 @@
+Path: ./Testcases/04AlmostStronglyCorrelated/n00050.kp
+Size: 50 items, Time taken: 52.25902223587036s
+Total value = 166017
+Total weight: 132028
+Optimal: True
+
+
+Path: ./Testcases/04AlmostStronglyCorrelated/n00100.kp
+Size: 100 items, Time taken: 0.07752871513366699s
+Total value = 336950
+Total weight: 267913
+Optimal: True
+
+
+Path: ./Testcases/04AlmostStronglyCorrelated/n00200.kp
+Size: 200 items, Time taken: 2.1793980598449707s
+Total value = 62787
+Total weight: 48558
+Optimal: True
+
+
+Path: ./Testcases/04AlmostStronglyCorrelated/n00500.kp
+Size: 500 items, Time taken: 45.570817708969116s
+Total value = 1555910
+Total weight: 1198030
+Optimal: True
+
+
+Path: ./Testcases/04AlmostStronglyCorrelated/n01000.kp
+Size: 1000 items, Time taken: 1.0626020431518555s
+Total value = 3102031
+Total weight: 2385090
+Optimal: True
+
+
